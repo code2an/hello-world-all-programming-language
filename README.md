@@ -27,9 +27,10 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [ASSEMBLY LANGUAGE](/AssemblyLanguage)
 
 ### B.
-
+- [B](/B)
 - [Bash](/Bash)
 - [Brainfuck](/Brainfuck)
+- [BAIK](/BAIK)
 
 ### C.
 
@@ -45,7 +46,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [CRYSTAL](/CRYSTAL)
 
 ### D.
-
+- [D](/D)
 - [DART](/DART)
 
 ### E.
@@ -90,6 +91,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### M.
 
 - [MATLAB](/MATLAB)
+- [MODISCRIPT](/MODISCRIPT)
 
 ### N.
 
@@ -98,6 +100,12 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [Objective-C](/Objective-C)
 
 ### P.
+* [Pascal](/Pascal)
+* [PASCAL](/PASCAL)
+* [PHP](/PHP)
+* [PYTHON](/PYTHON)
+* [PERL](/PERL)
+=======
 
 - [PASCAL](/PASCAL)
 - [PEARL](/PEARL)
@@ -181,6 +189,11 @@ Note : if you have a programming language recommendation, you can add it in the 
    <td align="center"><a href="https://github.com/elianiva"><img src="https://avatars2.githubusercontent.com/u/51877647?v=4" width="120px;" alt=""/><br /><sub><b>Elianiva</b></sub></a><br /><a href="#content-elianiva" title="Content">🖋</a></td>
    <td align="center"><a href="https://github.com/afdulfauzan"><img src="https://avatars0.githubusercontent.com/u/37241368?v=4" width="120px;" alt=""/><br /><sub><b>Afdul Fauzan</b></sub></a><br /><a href="#content-elianiva" title="Content">🖋</a></td>
    <td align="center"><a href="https://github.com/Zainal21"><img src="https://avatars3.githubusercontent.com/u/48118434?v=4" width="120px;" alt=""/><br /><sub><b>Muhammad Zainal Arifin</b></sub></a><br /><a href="#content-zainal21" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+  	<td align="center"><a href="https://github.com/anthicc"><img src="https://avatars2.githubusercontent.com/u/65759448?s=60&v=4" width="120px;" alt=""/><br /><sub><b>Abda Zuljiva</b></sub></a><br /><a href="#content-anthicc" title="Content">🖋</a></td>
+  </tr>
+=======
  </tr>
  <tr>
   <td align="center"><a href="https://github.com/NichiNect"><img src="https://avatars0.githubusercontent.com/u/48024209?s=460&u=935ccdc9612b58b1df89c9942f8028a4f118ff65&v=4" width="120px;" alt=""/><br /><sub><b>Yoni Widhi</b></sub></a><br /><a href="#content-NichiNect" title="Content">🖋</a></td>
@@ -197,5 +210,10 @@ Note : if you have a programming language recommendation, you can add it in the 
   <td align="center"><a href="https://https://github.com/xvbnm48"><img src="https://avatars1.githubusercontent.com/u/64114487?s=400&u=19cedad75f102fff7eeef181f0ee10e1f4cd2178&v=4" width="120px;" alt=""/><br /><sub><b>M Fariz Wisnu Prananda</b></sub></a><br /><a href="#content-tiyang-jawi" title="Content">🖋</a></td>
   <td align="center"><a href="https://github.com/Putra-febriansyh4646"><img src="https://avatars3.githubusercontent.com/u/72185253?s=460&u=e843b4f07225324f267a9cd52605b90ee64a9df8&v=4" width="120px;" alt=""/><br /><sub><b>FebrianS Putra</b></sub></a><br /><a href="#content-Putra-febriansyh4646" title="Content">🖋</a></td>
   <td align="center"><a href="https://github.com/amary21"><img src="https://avatars2.githubusercontent.com/u/43547226?s=60&v=4" width="120px;" alt=""/><br /><sub><b>Taufik Amaryansyah</b></sub></a><br /><a href="#content-amary21" title="Content">🖋</a></td>
+  <td align="center"><a href="https://github.com/ianoit"><img src="https://avatars1.githubusercontent.com/u/6021809?s=460&u=f5626ac586142f5725747ddf8fddfe6d5fdb7548&v=4" width="120px;" alt=""/><br /><sub><b>Ianoit</b></sub></a><br /><a href="#content-ianoit" title="Content">🖋</a></td>
+  <td align="center"><a href="https://github.com/namya0303"><img src="https://cdn.discordapp.com/avatars/292653968742547466/96999311f4fd7e4a0cadb39466fe8b28.png?size=256" width="120px;" alt=""/><br /><sub><b>Namya Chhabra</b></sub></a><br /><a href="#content-namya0303" title="Content">🖋</a></td>
+</tr>
+<tr>
+  <td align="center"><a href="https://github.com/muhammadafin"><img src="https://avatars1.githubusercontent.com/u/60638028?v=4" width="120px;" alt=""/><br /><sub><b>Muhammad Afin</b></sub></a><br /><a href="#content-muhammadafin" title="Content">🖋</a></td>
 </tr>
 <table/>
